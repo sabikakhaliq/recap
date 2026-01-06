@@ -1,1 +1,1 @@
-ctrl +' = terkinal
+ctrl +' = terminal
